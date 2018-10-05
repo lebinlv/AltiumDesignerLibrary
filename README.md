@@ -1,5 +1,23 @@
 # AltiumDesignerLibrary
 
+## Connector Library
+
+### USB Family
+
+- Micro/Mini USB 2.0 Type A/AB
+- Micro USB 3.0
+- USB 2.0 Type A/B
+- USB 3.0 Type A
+- USB 3.1 Type A/C
+- ...
+
+### Memory Card Family
+
+- SD Card
+- Micro SD Card
+- ...
+
+
 ## Folder
 
 ```./3D``` 3D file in **.step** format.
