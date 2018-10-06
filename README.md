@@ -17,14 +17,24 @@
 - Micro SD Card
 - ...
 
+### Other
+
+- Pitch 2.54mm Header series
+- pieces of  KF128, KF301 series
+- FPC, FFC (not modified)
+- ...
 
 ## Folder
 
-```./3D``` 3D file in **.step** format.
-
 ```./AD_Connectors``` Altium Designer Connectors Library Project file.
 
+```./AD_Connectors/3D``` Connectors' 3D file in **.step** format.
+
+```./AD_Connectors/Datasheet``` Connectors' datasheet file in **.step** format.
+
 ```./AD_Comments``` Altium Designer Comments Library Project file.
+
+```./AD_Comments/3D``` Comments' 3D file in **.step** format.
 
 ```./Output``` Output file, you can find **.IntLib** file here.
 
